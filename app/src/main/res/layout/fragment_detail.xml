@@ -19,6 +19,7 @@
                 app:layout_collapseMode="parallax"
                 android:adjustViewBounds="true"/>
             <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar_detail"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:layout_collapseMode="pin"
